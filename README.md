@@ -126,5 +126,4 @@ ODIR Dataset for providing retinal images.
 TensorFlow for the deep learning framework.
 Contributors and open-source community for inspiration and support.
 
-Contact
-For questions or issues, please open an issue on GitHub or contact milind55555.
+.
